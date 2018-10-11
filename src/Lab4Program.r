@@ -1,5 +1,5 @@
-# Name:
-# Date:
+# Name: Haeley Griffin
+# Date:9/28/18
 
 # Run the below only if the library is not already installed.
 # install.packages(dslabs)
