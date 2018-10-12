@@ -2,7 +2,8 @@
 # Date: 9/28/18
 
 Question 7.
-
+https://www.cdc.gov/mmwr/preview/mmwrhtml/mm5436a1.htm
+This report I found has the "Direct and Indirect Effects of Routine Vaccination of Children with 7-Valent Pneumococcal Conjugate Vaccine on Incidence of Invasive Pneumococcal Disease --- United States, 1998--2003" This report is great because it is from the CDC which is a government website that I believe is rather credible. The data that is used though is not as long of a period of time as the other source of data we were previously using. It as the full report, all of the references, who the report was by, editorial notesalong with figures and data sets at the end. If you were looking for other diseases and how they are directly and indirectly effected by routine vaccinations I feel this would be a great source for data.
 
 
 Question 8.
@@ -21,7 +22,10 @@ A:No I do not believe retracting a paper is enough. I believe the man went to ja
 
 
 Question 9.
-
+http://apps.who.int/gho/data/node.main.A827?lang=en
+This is the data that I found on the World Health Organization on "Diphtheria tetanus toxoid and pertussis (DTP3) Immunization coverage estimates by country" This data shows how much the immunization covers for DTP3. It is a key measure of immunization system performance. Telling us the data on how well the immunization works.
+http://apps.who.int/gho/data/node.main.PCV3n?lang=en
+This is the data that I found on the World Health Organization on " Pneumococcal conjugate (PCV3) Immunization coverage estimates by country" This data shows how much the immunization covers for PCV3. It is a key measure of immunization system performance. Telling us the data on how well the immunization works. 
 
 
 Question 10.
